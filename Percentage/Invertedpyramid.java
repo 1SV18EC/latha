@@ -1,6 +1,6 @@
 package switchstatement;
 
-public class InvertedPyramid {
+public class Invertedpyramid {
 		  public static void main(String[] args) {
 		    int rows = 5;
 
